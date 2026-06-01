@@ -1,4 +1,4 @@
-python-telegram-bot==22.1
+python-telegram-bot==22.7
 requests==2.31.0
 beautifulsoup4==4.12.2
 deep-translator==1.11.4
